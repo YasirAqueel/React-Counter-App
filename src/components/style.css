@@ -1,0 +1,21 @@
+.count{
+    text-align: center;
+    font-size: 7em;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}
+
+.button{
+    padding: 8px;
+    margin: 3px;
+    color: rgb(209, 40, 77);
+    background-color: #1df753;
+    font-weight: 900;
+
+}
+
+.button:hover{
+    background-color: #10a736;
+    
+}
